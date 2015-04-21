@@ -10,7 +10,7 @@ echo -n ">"
 while read access
 do
 	if [ "$access" == "access security" ]; then
-		echo "security is off-limits to the likes of you"
+		echo "access: PERMISSION DENIED"
 		echo -n ">"
 	elif [ "$access" == "access security grid" ]; then
 		echo "access: PERMISSION DENIED"
