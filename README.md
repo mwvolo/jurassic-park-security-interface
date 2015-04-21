@@ -1,4 +1,4 @@
-# jurassic-park-security-interface
+# Jurrasic Park, System Security Interface
 A recreation of the Jurassic Park System Security Interface
 
 The system is created with a Bash script and comes prebuilt with the following commands:
