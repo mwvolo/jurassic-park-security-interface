@@ -18,5 +18,6 @@ then run start the mainframe with
 ./main.sh
 ```
 
+![JPSI Screen Shot](/screen-shot.png)
 
 I created this just because I am excited about the new Jurrasic Park movie - let's hope they upgrade the mainframe look in this version!
