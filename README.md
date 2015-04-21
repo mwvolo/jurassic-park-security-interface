@@ -17,6 +17,7 @@ then run start the mainframe with
 ```bash
 ./main.sh
 ```
+You can watch the original movie clip here: https://youtu.be/RfiQYRn7fBg
 
 ![JPSI Screen Shot](/screen-shot.png)
 
