@@ -20,4 +20,6 @@ then run start the mainframe with
 
 ![JPSI Screen Shot](/screen-shot.png)
 
+*Using iTerm on OSX with 12pt Consolas font, and blue background/white text as in the movie*
+
 I created this just because I am excited about the new Jurrasic Park movie - let's hope they upgrade the mainframe look in this version!
